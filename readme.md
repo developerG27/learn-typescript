@@ -3,3 +3,5 @@
 - Classi
 - Interface
 - Shapes
+- Union types
+- Intersection types
