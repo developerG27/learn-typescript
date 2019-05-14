@@ -5,3 +5,4 @@
 - Shapes
 - Union types
 - Intersection types
+- Function type
